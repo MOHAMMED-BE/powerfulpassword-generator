@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/powerfulpassword-generator/static/css/main.25daf02e.css",
+    "main.js": "/powerfulpassword-generator/static/js/main.35db539a.js",
+    "static/js/529.8f503d1f.chunk.js": "/powerfulpassword-generator/static/js/529.8f503d1f.chunk.js",
+    "static/media/bg-3.webp": "/powerfulpassword-generator/static/media/bg-3.e69d14c11f42986866ce.webp",
+    "static/media/VarelaRound-Regular.ttf": "/powerfulpassword-generator/static/media/VarelaRound-Regular.3b7ffe17ffd5b4e3c72f.ttf",
+    "static/media/layered-waves-haikei-pc.svg": "/powerfulpassword-generator/static/media/layered-waves-haikei-pc.51c23551d84b942ca074.svg",
+    "static/media/layered-waves-haikei-mobile.svg": "/powerfulpassword-generator/static/media/layered-waves-haikei-mobile.d59c3f0bc576282068e4.svg",
+    "index.html": "/powerfulpassword-generator/index.html",
+    "main.25daf02e.css.map": "/powerfulpassword-generator/static/css/main.25daf02e.css.map",
+    "main.35db539a.js.map": "/powerfulpassword-generator/static/js/main.35db539a.js.map",
+    "529.8f503d1f.chunk.js.map": "/powerfulpassword-generator/static/js/529.8f503d1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25daf02e.css",
+    "static/js/main.35db539a.js"
+  ]
+}
