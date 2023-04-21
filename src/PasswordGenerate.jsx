@@ -35,7 +35,7 @@ function generatePassword(passwordLength,lowerCaseChecked,upperCaseChecked,digit
     password += randomChar(digits);
     password += randomChar(specialChars);
     password += randomChar(lowercase);
-      if (passwordLength % 2 === 0 || i < len - 1) {
+      if (passwordLength % 2 === 0 || i < len) {
         password += randomChar(uppercase);
       }
   }
