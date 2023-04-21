@@ -1,7 +1,8 @@
 {
   "short_name": "Powerful Password Generator",
   "name": "Powerful Password Generator React App",
-  "icons": [],
+  "icons": [
+  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
